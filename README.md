@@ -6,6 +6,7 @@
 Linear algebra provides concepts that are crucial to many areas of computer science, including graphics,
 image processing, cryptography, machine learning, computer vision,information retrieval and web search.
 Accordingly, computers must be able to perform Linear algebra’s operations.
+
 2 Project Description
 In this project, we’ll perform a simple linear algebra operation on MIPS architecture using MARS, which is
 y = A(x + b), where x, y and b are 2 × 1 vectors and A is a 2 × 2 matrix.
